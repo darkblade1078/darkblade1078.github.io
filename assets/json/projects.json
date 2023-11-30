@@ -27,20 +27,20 @@
             "name": "Discord",
             "iconClasses": "fa-brands fa-discord"
         },
-        "description": "A general use discord bot that I'm currently working on",
+        "description": "A general use discord bot being made for fun",
         "sourceUrl": "https://github.com/darkblade1078/Particle/tree/main/src",
         "previewUrl": "https://github.com/darkblade1078/Particle",
         "featured": true
     },
     {
-        "name": "Demon",
+        "name": "Terminator",
         "stack": {
             "name": "Discord",
             "iconClasses": "fa-brands fa-discord"
         },
-        "description": "A discord bot that focuses on the war aspect of the game Politics and War",
-        "sourceUrl": "https://github.com/darkblade1078/Demon/tree/main/src",
-        "previewUrl": "https://github.com/darkblade1078/Demon",
+        "description": "A discord bot that focuses on the war aspect of the game Politics and War (This project is hidden)",
+        "sourceUrl": "https://github.com/darkblade1078/Terminator/tree/main/src",
+        "previewUrl": "https://github.com/darkblade1078/Terminator",
         "featured": true
     }
 ]

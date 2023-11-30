@@ -2,11 +2,11 @@
     "firstName": "Dark",
     "lastName": "Blade",
     "intro": [
-        "I'm a sophomore Computer Science Major currently attending a community college somewhere in the southern United States. My ultimate goal is to learn full stack web development, master C++, and Artificial Intelligence at some point."
+        "I'm a Junior Computer Science Major currently attending a University in Florida. My ultimate goal is to learn all the different fields of software development (even low level programming)."
     ],
     "about": [
-        "I started programing at 15 years old when I wanted to learn how to make a discord bot to show off to my friends. I went on youtube and learned how to make a discord bot in javascript. Despite my first bot having many issues due to my poor knowledge of javascript and no knowledge of data structures, I was hooked.",
-        "I'm currently working towards my bachelor's to see where I stand amongst CS majors and to push myself beyond my current limits as a software developer. My goal is to graduate by 2025 with my degree and might pursue a master's afterward.",
-        "Besides programming, I like to play strategy games and make memes/videos for others to enjoy. I also make spread sheets as well with some backend code implemented thxs to Google App Script."
+        "I started programing at 15 years old when I wanted to learn how to make a discord bot to show off to my friends. I went on youtube and learned how to make a discord bot in javascript. Despite my first bot having many issues due to my lack of knowledge of data structures and general programming etiquette, I really enjoyed programming.",
+        "I'm currently working towards my bachelor's not only to see where I stand amongst other computer science majors, but to push myself to the limits",
+        "Besides programming, I like to play strategy games based on history/fiction and playing online games with friends."
     ]
 }
